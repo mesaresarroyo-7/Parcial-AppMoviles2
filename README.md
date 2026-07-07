@@ -1,48 +1,31 @@
-# Parcial-AppMoviles2
+# Parcial App Moviles 2
 
-Proyecto de aplicación móvil desarrollado con Expo / React Native para el parcial de App Móviles 2.
+Aplicacion movil hecha con Expo/React Native para el parcial de Aplicaciones Moviles.
 
 ## Requisitos
 
-- Node.js instalado (recomendado LTS)
-- npm
-- Expo Go en el celular Android/iOS, o un emulador Android configurado
+- Node.js instalado
+- Expo Go en el celular o emulador Android
 
-## Instalación
-
-1. Descargar este repositorio como ZIP o clonarlo:
-
-```bash
-git clone https://github.com/mesaresarroyo-7/Parcial-AppMoviles2.git
-cd Parcial-AppMoviles2
-```
-
-2. Instalar dependencias:
+## Instalacion
 
 ```bash
 npm install
 ```
 
-3. Iniciar el proyecto:
+## Ejecutar
 
 ```bash
 npm start
 ```
 
-4. Escanear el QR con Expo Go o ejecutar en Android:
+Opciones utiles:
 
 ```bash
 npm run android
+npm run web
 ```
 
-## Archivos importantes incluidos
+## Notas
 
-- Código fuente en `app/`, `components/` y `config/`
-- Configuración de Expo en `app.json`
-- Dependencias en `package.json` y `package-lock.json`
-- Datos de ejemplo en `firebase-data.json`
-- Assets/imágenes en `assets/`
-
-## Nota sobre carpetas generadas
-
-Las carpetas `node_modules`, `.expo`, `dist`, `web-build`, `android` e `ios` no se suben al repositorio porque son dependencias, cachés o compilaciones generadas. Se regeneran automáticamente con `npm install` y los comandos de Expo.
+El repositorio incluye el codigo fuente, configuracion, assets y lockfile necesarios para instalar y correr el proyecto. La carpeta `node_modules` no se sube porque se regenera con `npm install`.

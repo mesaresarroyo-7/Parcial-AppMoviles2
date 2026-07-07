@@ -39,3 +39,21 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Dependencies
+node_modules/
+
+# Expo/local generated
+.expo/
+.expo-dev-server.log
+dist/
+web-build/
+
+# Coursework presentation/evidence files kept outside repo
+CAPTURAS*/
+_slide_preview/
+*.docx
+*.pdf
+*.pptx
+*.zip
+*.log
