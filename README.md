@@ -1,3 +1,5 @@
+> **Estado del repositorio:** versión legada conservada como historial académico. La versión principal es [app-moviles-2-final](https://github.com/mesaresarroyo-7/app-moviles-2-final). Para desarrollo nuevo usa el repositorio principal o `App-Moviles2`.
+
 # Parcial App Moviles 2
 
 Aplicacion movil hecha con Expo/React Native para el parcial de Aplicaciones Moviles.
